@@ -1,0 +1,11 @@
+*{
+  margin:0px;
+  padding: 0px;
+}
+p, h4, input, label, h6{
+  font-family: sans-serif;
+  color: #758690;
+}
+input:focus{
+  outline: none;
+}
